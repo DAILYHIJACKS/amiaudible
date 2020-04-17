@@ -4,7 +4,6 @@
 
 Hack into victims mic using a link and grab the audio output.
 
-![Snap](https://drive.google.com/open?id=1WJnACvXgsoYmWu1wRaPcqy0ADjgEvX8C)
 
 ### How it works?
 
@@ -27,4 +26,4 @@ bash amiaudible.sh
 ```
 
 ### Hacking Forum:
-<noscript><a href="https://www.techto.xyz/"><img alt="Daily Hijacks" src="https://i.pinimg.com/564x/2c/67/5a/2c675a4bec66a4c3df9ea0d31da0e9fe.jpg"></a></noscript>
+<noscript><a href="https://www.techto.xyz/"><img alt="Daily Hijacks" src="https://img.icons8.com/clouds/100/000000/external-link.png"></a></noscript>
