@@ -4,7 +4,7 @@
 
 Hack into victims mic using a link and grab the audio output.
 
-![Snap](https://github.com/DAILYHIJACKS/amiaudible/snaps/amiaudible.png)
+![Snap](https://drive.google.com/open?id=1WJnACvXgsoYmWu1wRaPcqy0ADjgEvX8C)
 
 ### How it works?
 
